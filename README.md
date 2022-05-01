@@ -24,6 +24,7 @@ I'm a Data Platform Engineer from Norway
   <img src="https://img.shields.io/badge/Platforms-Azure-informational?style=flat&amp;logo=microsoft-azure&amp;logoColor=white&amp;color=6aa6f8" alt="Azure"/> 
   <img src="https://img.shields.io/badge/Platforms-GCP-informational?style=flat&amp;logo=google-cloud&amp;logoColor=white&amp;color=6aa6f8" alt="GCP"/>
   <img src="https://img.shields.io/badge/Tools-Databricks-informational?style=flat&amp;logo=databricks&amp;logoColor=white&amp;color=6aa6f8" alt="Databricks"/>
+  <img src="https://img.shields.io/badge/Tools-BigQuery-informational?style=flat&amp;logo=google-cloud&amp;logoColor=white&amp;color=6aa6f8" alt="BigQuery"/>
   <img src="https://img.shields.io/badge/Tools-Snowflake-informational?style=flat&amp;logo=snowflake&amp;logoColor=white&amp;color=6aa6f8" alt="Snowflake"/>
   <img src="https://img.shields.io/badge/Tools-dbt-informational?style=flat&amp;logo=dbt&amp;logoColor=white&amp;color=6aa6f8" alt="dbt"/>
   <img src="https://img.shields.io/badge/Tools-DevOps-informational?style=flat&amp;logo=azure-devops&amp;logoColor=white&amp;color=6aa6f8" alt="Azure DevOps"/>
@@ -31,6 +32,7 @@ I'm a Data Platform Engineer from Norway
   <img src="https://img.shields.io/badge/Code-SQL-informational?style=flat&amp;logo=sql&amp;logoColor=white&amp;color=6aa6f8" alt="SQL"/> 
   <img src="https://img.shields.io/badge/Code-Jinja-informational?style=flat&amp;logo=jinja&amp;logoColor=white&amp;color=6aa6f8" alt="Jinja"/>
   <img src="https://img.shields.io/badge/Code-Terraform-informational?style=flat&amp;logo=terraform&amp;logoColor=white&amp;color=6aa6f8" alt="Terraform"/>
+  <img src="https://img.shields.io/badge/Shell-PowerShell-informational?style=flat&amp;logo=powershell&amp;logoColor=white&amp;color=6aa6f8" alt="PowerShell"/>
   <img src="https://img.shields.io/badge/Shell-Bash-informational?style=flat&amp;logo=gnu-bash&amp;logoColor=white&amp;color=6aa6f8" alt="Bash"/>
   <img src="https://img.shields.io/badge/Editor-VS_Code-informational?style=flat&amp;logo=visual-studio-code&amp;logoColor=white&amp;color=6aa6f8" alt="VS Code"/>
 </div>
