@@ -26,6 +26,7 @@ I'm a Data Platform Engineer from Norway.
   <img src="https://img.shields.io/badge/Tools-Databricks-informational?style=flat&amp;logo=databricks&amp;logoColor=white&amp;color=6aa6f8" alt="Databricks"/>
   <img src="https://img.shields.io/badge/Tools-Snowflake-informational?style=flat&amp;logo=snowflake&amp;logoColor=white&amp;color=6aa6f8" alt="Snowflake"/>
   <img src="https://img.shields.io/badge/Tools-dbt-informational?style=flat&amp;logo=dbt&amp;logoColor=white&amp;color=6aa6f8" alt="dbt"/>
+  <img src="https://img.shields.io/badge/Tools-DevOps-informational?style=flat&amp;logo=azure-devops&amp;logoColor=white&amp;color=6aa6f8" alt="Azure DevOps"/>
   <img src="https://img.shields.io/badge/Code-Python-informational?style=flat&amp;logo=python&amp;logoColor=white&amp;color=6aa6f8" alt="Python"/> 
   <img src="https://img.shields.io/badge/Code-SQL-informational?style=flat&amp;logo=sql&amp;logoColor=white&amp;color=6aa6f8" alt="SQL"/> 
   <img src="https://img.shields.io/badge/Code-Jinja-informational?style=flat&amp;logo=jinja&amp;logoColor=white&amp;color=6aa6f8" alt="Jinja"/>
@@ -34,25 +35,5 @@ I'm a Data Platform Engineer from Norway.
   <img src="https://img.shields.io/badge/Editor-VS_Code-informational?style=flat&amp;logo=visual-studio-code&amp;logoColor=white&amp;color=6aa6f8" alt="VS Code"/>
 </div>
 
-
-
-
-
-
 ### ✍️ Recent blog posts
 - [10 tips for å komme i gang med dbt](https://glitni.no/fagartikler/10-tips-for-a-komme-i-gang-med-dbt/)
-
-<!--
-**grindheim/grindheim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
