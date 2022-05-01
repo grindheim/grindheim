@@ -23,9 +23,9 @@ I'm a Data Platform Engineer from Norway
 <div id="technologies">
   <img src="https://img.shields.io/badge/Platforms-Azure-informational?style=flat&amp;logo=microsoft-azure&amp;logoColor=white&amp;color=6aa6f8" alt="Azure"/> 
   <img src="https://img.shields.io/badge/Platforms-GCP-informational?style=flat&amp;logo=google-cloud&amp;logoColor=white&amp;color=6aa6f8" alt="GCP"/>
+  <img src="https://img.shields.io/badge/Platforms-Snowflake-informational?style=flat&amp;logo=snowflake&amp;logoColor=white&amp;color=6aa6f8" alt="Snowflake"/>
   <img src="https://img.shields.io/badge/Tools-Databricks-informational?style=flat&amp;logo=databricks&amp;logoColor=white&amp;color=6aa6f8" alt="Databricks"/>
   <img src="https://img.shields.io/badge/Tools-BigQuery-informational?style=flat&amp;logo=google-cloud&amp;logoColor=white&amp;color=6aa6f8" alt="BigQuery"/>
-  <img src="https://img.shields.io/badge/Tools-Snowflake-informational?style=flat&amp;logo=snowflake&amp;logoColor=white&amp;color=6aa6f8" alt="Snowflake"/>
   <img src="https://img.shields.io/badge/Tools-dbt-informational?style=flat&amp;logo=dbt&amp;logoColor=white&amp;color=6aa6f8" alt="dbt"/>
   <img src="https://img.shields.io/badge/Tools-DevOps-informational?style=flat&amp;logo=azure-devops&amp;logoColor=white&amp;color=6aa6f8" alt="Azure DevOps"/>
   <img src="https://img.shields.io/badge/Code-Python-informational?style=flat&amp;logo=python&amp;logoColor=white&amp;color=6aa6f8" alt="Python"/> 
