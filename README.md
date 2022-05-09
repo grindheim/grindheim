@@ -37,4 +37,5 @@ I'm a Data Platform Engineer from Norway
 </div>
 
 ### ✍️ Recent blog posts
+- [Querying JSON using SQL — A comparison of Synapse, BigQuery, Databricks and Snowflake](https://medium.com/glitni/querying-json-using-sql-a-comparison-of-synapse-bigquery-databricks-and-snowflake-166c096add54)
 - [10 tips for å komme i gang med dbt](https://glitni.no/fagartikler/10-tips-for-a-komme-i-gang-med-dbt/)
