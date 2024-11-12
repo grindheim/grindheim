@@ -41,5 +41,6 @@ I'm a Data Platform Engineer from Norway
 - dbt-spark: [Corrected definition for set full_refresh_mode #262](https://github.com/dbt-labs/dbt-spark/pull/262)
 
 ### ✍️ Recent blog posts
+- [How to unit test macros in dbt](https://medium.com/glitni/how-to-unit-test-macros-in-dbt-89bdb5de8634)
 - [Querying JSON using SQL — A comparison of Synapse, BigQuery, Databricks and Snowflake](https://medium.com/glitni/querying-json-using-sql-a-comparison-of-synapse-bigquery-databricks-and-snowflake-166c096add54)
 - [10 tips for å komme i gang med dbt](https://glitni.no/fagartikler/10-tips-for-a-komme-i-gang-med-dbt/)
