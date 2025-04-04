@@ -37,6 +37,7 @@ I'm a Data Platform Engineer from Norway
 </div>
 
 ### 🌱 Open Source contributions
+- [dbtwiz](https://github.com/amedia/dbtwiz)
 - vscode-dbt-power-user: [feat: add command to run apply defer config](https://github.com/AltimateAI/vscode-dbt-power-user/pull/1612)
 - dbt-spark: [Not dropping table for incremental full refresh with delta #287](https://github.com/dbt-labs/dbt-spark/pull/287)
 - dbt-spark: [Corrected definition for set full_refresh_mode #262](https://github.com/dbt-labs/dbt-spark/pull/262)
